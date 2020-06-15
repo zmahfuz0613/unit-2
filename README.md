@@ -19,6 +19,14 @@ By the end of this unit, developers should be able to:
 
 [Here]() is the link to this unit's calendar.
 
+## Project 2
+
+We'll give more details as we get closer to the project, but you will be building a React frontend that connects to an API for your project. The required technologies will be:
+
+- React
+- React Router
+- Axios
+
 ## Additional Resources
 
 - [React docs](https://reactjs.org/)
