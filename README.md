@@ -17,7 +17,7 @@ By the end of this unit, developers should be able to:
 
 ## Unit Schedule
 
-[Here]() is the link to this unit's calendar.
+[Here](https://docs.google.com/spreadsheets/d/1xqgjNr5pMWJ5N3z34JznjIrjU7utIoz5j-KYDb31L8w/edit?usp=sharing) is the link to this unit's calendar.
 
 ## Project 2
 
